@@ -3,7 +3,7 @@ email: rvividha@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hey:)
 baseurl: "/" 
-url: "/portfolio-template" 
+url: "https://v2dha.github.io/portfolio-template/" 
 twitter_username: vvdha
 github_username:  V2dha
 
