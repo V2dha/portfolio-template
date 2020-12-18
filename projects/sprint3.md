@@ -1,3 +1,8 @@
+---
+title: Sprint 3 Project
+layout: page
+---
+
 # Social BERTerfly 🦋
 
 ![Open In Colab](https://img.shields.io/github/issues-closed/MLH-Fellowship/Social-BERTerfly?style=for-the-badge)
