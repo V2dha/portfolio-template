@@ -1,20 +1,36 @@
----
-title: Sprint 1 Project
-layout: page
----
+# StudyScape
 
-## Inspiration
+Let StudyScape manage your school life easily, all in one place! Nowadays, there are too many individual tools to manage certain aspects of student life: multiple planner apps to manage your tasks, multiple online calendars, such as Google Calendar, to track your schedule, and so many more. We've eliminated the multitude of versions of the same concept and combined them in one nifty application: StudyScape!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Setup
+1. Create or sign in to your Github account.
+2. Fork this [repository](https://github.com/MLH-Fellowship/Student-Planner)
+3. Clone your fork of the repository and define an upstream remote pointing back to the Connectify repository that you forked in the first place.
+```
+git clone https://github.com/MLH-Fellowship/StudyScape.git 
+cd StudyScape
+git remote add upstream https://github.com/MLH-Fellowship/StudyScape.git
+```
+4. Start the server by running
+```
+python -m http.server
+```
+5. Open http://localhost:8000 in your preferred browser. 
 
-## What it does
+## About the Project
+Our dashboard is configured with Google sign-in, so you can use your Gmail account to sign in to our customizable dashboard. Here, you can drag and drop widgets into your dashboard to tailor it best to how you work! Our widgets include features such as:
+ - Google Calendar, which can display your classes and events
+ - To-do list, which lets you create multiple task lists. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Technologies Used:
+ - HTML/CSS
+ - Bootstrap
+ - Javascript
 
-## How we built it
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Challenge we ran into
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Contributors
+ - [Emily Amspoker](https://github.com/eamspoker)
+ - [Vividha](https://github.com/V2dha)
+ - [Shilpita Biswas](https://github.com/sh-biswas)
+ 
+ ## Demo
+https://www.youtube.com/watch?v=RHA8MtWvvEQ&feature=youtu.be
