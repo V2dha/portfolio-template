@@ -2,7 +2,7 @@
 title: Sprint 1 Project
 layout: page
 ---
-
+<br>
 # StudyScape
 
 Let StudyScape manage your school life easily, all in one place! Nowadays, there are too many individual tools to manage certain aspects of student life: multiple planner apps to manage your tasks, multiple online calendars, such as Google Calendar, to track your schedule, and so many more. We've eliminated the multitude of versions of the same concept and combined them in one nifty application: StudyScape!
