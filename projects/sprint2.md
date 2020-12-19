@@ -2,6 +2,7 @@
 title: Sprint 1 Project
 layout: page
 ---
+
 # Evil in Jaffar
 
 <p align="center">
