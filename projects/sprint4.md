@@ -2,6 +2,7 @@
 title: Sprint 1 Project
 layout: page
 ---
+
 # alphadoc
 
 [![PyPI version](https://img.shields.io/pypi/v/alphadoc.svg?color=green&style=for-the-badge)](https://pypi.org/project/pdoc3)
