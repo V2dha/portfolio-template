@@ -1,5 +1,5 @@
 ---
-title: Sprint 2 Project
+title: Sprint 1 Project
 layout: page
 ---
 # Evil in Jaffar
