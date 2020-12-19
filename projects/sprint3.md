@@ -1,5 +1,5 @@
 ---
-title: Sprint 3 Project
+title: Sprint 1 Project
 layout: page
 ---
 
