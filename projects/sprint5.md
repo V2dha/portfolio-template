@@ -1,10 +1,10 @@
 ---
-title: Sprint 1 Project
+title: Sprint 5 Project
 layout: page
 ---
 
 
-  <h3 align="center">💕 Good Vibes Only 💕</span></h3>
+  <h3 align="center">💕 Good Vibes Only 💕</h3>
     <blockquote>Albert Schweitzer, a German physician and Nobel Peace Prize winner, had it right when he said, “Happiness is the only thing that multiplies when you share it.”</blockquote> 
   <p align="center">
   As it turns out, plenty of research backs up this idea that sharing good news contributes to greater well-being for all.
